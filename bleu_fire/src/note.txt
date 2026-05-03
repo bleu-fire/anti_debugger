@@ -1,0 +1,2 @@
+the function ptrace ,
+the function  strace ,
